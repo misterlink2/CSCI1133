@@ -1,0 +1,9 @@
+for i in range(199):
+	for j in range(199):
+		if int((((i-100)^2)+((j-100)^2))^.5)==R:
+			then particle can be created at A[i][j]
+			t.goto(j,200-i)
+			t begin drunk walk
+			if (x,y) +/- 1 is true:
+				t.stamp()
+				R+=1
