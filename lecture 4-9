@@ -1,0 +1,19 @@
+3 core principles of object oriented programing
+
+	encapsulation
+		decoupling, data hiding,
+		internal variables are made private, use methods
+	polymorphism
+		ad hoc-overloading
+		dynamic polymorphism-overriding
+	inheritance
+		extend a class
+		override existing methods
+		reusing existing code
+
+binary relationship between two classes
+	'IS-A' -  relationship
+	parent,super class, base class 
+		- child, sub class, derived class
+
+

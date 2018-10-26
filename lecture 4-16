@@ -1,0 +1,49 @@
+_________________________________________________________
+------------------lecture 4-16---------------------------
+_________________________________________________________
+
+'java'
+
+1. how do i create and run a simple program
+2. what are the primite elements (data, operational)
+
+'data model'
+
+weak   		   	       |  strong
+_______________________________|____________________________
+1. object is created	       |  variable is created
+  then it is bound to variable |  then it is bound to object
+2. variable type is determined |  variable type is determined
+   dynamically and can change  |  statically and cant change
+3. binding			  store value
+
+int x 
+x=3
+
+primite data
+
+'general'		'python'	'java'
+boolean			bool		boolean
+integer			int		{int,byte,short,long}
+floating point		float		{float, double}
+characters		str		char
+
+'arithmetic'
+add			+		+
+sub			-		-
+mul			*		*
+div			{/,//}		/
+mod			%		%
+exponent		**		nope
+increment		nope		++
+decrement		nope		--
+
+Boolean(relational)	<		<
+
+logical			and		&&
+			or		||
+			not		!
+xor			nope		^
+
+statements		x=2+3		x=2+2;
+			implicit	explic
